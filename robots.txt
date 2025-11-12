@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean-roan-nu.vercel.app/sitemap.xml
